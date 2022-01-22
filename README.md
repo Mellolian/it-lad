@@ -13,6 +13,8 @@ pipenv shell
 
 pipenv sync
 
+Затем:
+
 cd itlad
 
 scrapy crawl parser
